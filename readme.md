@@ -7,7 +7,7 @@ This is another game made with javascript. Implementing modern javascript with s
 
 Select a first tile, and then a second one. If they match, they're then removed from the game, and a positive score is added.
 
-###### In future versions, features and the look of it will be refined. This is a in-progress project
+###### In future versions, features and the look of it will be refined. This is an in-progress project
 
 ###### This project is based in Ania Kubow's "Learn Javascript by building games" video. All the images used are hers. 
 
